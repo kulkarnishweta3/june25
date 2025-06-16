@@ -1,5 +1,4 @@
 import java.util.Scanner;
-// This program checks which digits from 1 to 9 divide a given number evenly.
 public class DivisibleByDigits {
     public static void main(String[] args) {
         // Create a Scanner object to read input from the user
