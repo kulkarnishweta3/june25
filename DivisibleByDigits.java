@@ -15,7 +15,6 @@ public class DivisibleByDigits {
                 found = true;
             }
         }
-        // If no digits divide the number, print "None"
         if (!found) {
             System.out.print("None");
         }
