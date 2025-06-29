@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// This program checks which digits from 1 to 9 divide a given number evenly.
 public class PalindromeCheck {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
